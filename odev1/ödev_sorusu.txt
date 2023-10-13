@@ -1,0 +1,9 @@
+ödev kodu: 131023K-1
+
+Klasörde verilen m1 ve m2 txt dosyalarının içindeki metinlerin benzeşim oranını buldurunuz?
+
+Python dili (diğer dillerde kullanılabilir) kullanarak en az iki metin dosyasını karşılaştırınız ve benzeşim oranlarını bulunuz. Benzeşim oranını bulurken önce bu sözcükleri çıkarmadanbulunuz(benzeme oranı yüksek çıkacaktır), ardından bu sözcükleri çıkartarak benzeşim oranını bulunuz(benzeme oranı düşük çıkacaktır).
+
+Ödevi yapmadan önce ilgili kitabın sayfalarını okuyunuz!. Kitap dizininden bulabilirsiniz.
+
+Yazdığınız kodalrı ödev şablonuna kaydediniz. Dönem sonunda çıktı alarak tüm ödevleri topluca alacağız!.
